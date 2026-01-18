@@ -49,15 +49,3 @@ const developer = {
 
 </div>
 
-## 📊 GitHub Stats
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1nj3c4&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1nj3c4&layout=compact&langs_count=8&theme=radical"/>
-</div>
-
-<div align="center">
-  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1nj3c4&theme=radical)
-  
-</div>
-
