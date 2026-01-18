@@ -12,14 +12,12 @@
 
 ```typescript
 const developer = {
-    name: "Your Name",
+    name: "Luca",
     age: 17,
-    pronouns: "he/him" || "she/her" || "they/them",
-    location: "Somewhere Cool 🌍",
-    currentFocus: "Building awesome stuff",
-    learning: ["Advanced React", "Backend Magic", "AI/ML"],
-    hobbies: ["Coding", "Gaming", "Music", "Coffee ☕"],
-    funFact: "I debug with console.log() and I'm not ashamed 😎"
+    pronouns: "he/him",
+    location: "Romania 🌍",
+    learning: ["Assembly", "Svelte"],
+    hobbies: ["Coding", "Gaming", "DJing", "Coffee ☕"],
 };
 ```
 
@@ -43,7 +41,7 @@ const developer = {
 ### Tools & Platforms
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge&logo=cursor&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 </div>
@@ -51,29 +49,18 @@ const developer = {
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1nj3c4&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?1nj3c4=yourusername&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
   
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=radical)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=1nj3c4&theme=radical)
   
 </div>
 
-## 🔥 Current Projects
 
-- 🎮 **Project Name** - Brief description of what you're building
-- 🤖 **Another Cool Project** - What makes this one special
-- 💡 **Learning Journey** - Documenting my progress in [technology]
 
-## 🎯 2026 Goals
-
-- [ ] Contribute to 5 open source projects
-- [ ] Build and deploy 10 full-stack apps
-- [ ] Learn a new programming language
-- [ ] Hit 1000 GitHub followers
-- [ ] Start a tech blog/YouTube channel
 
 ## 💬 Let's Connect!
 
@@ -90,7 +77,7 @@ const developer = {
 
 <div align="center">
   
-[![Spotify](https://novatorem-yourusername.vercel.app/api/spotify)](https://open.spotify.com/user/yourusername)
+[![Spotify](https://novatorem-yourusername.vercel.app/api/spotify)](https://open.spotify.com/user/lucapascu)
 
 </div>
 
@@ -102,7 +89,7 @@ const developer = {
   ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
   
   ### 🐍 Contribution Graph
-  ![Snake animation](https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/1nj3c4/1nj3c4/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
