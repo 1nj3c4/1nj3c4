@@ -50,10 +50,9 @@ const developer = {
 </div>
 
 ## 📊 GitHub Stats
-
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=1nj3c4&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?1nj3c4=yourusername&layout=compact&langs_count=8&theme=radical"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=1nj3c4&layout=compact&langs_count=8&theme=radical"/>
 </div>
 
 <div align="center">
@@ -62,44 +61,3 @@ const developer = {
   
 </div>
 
-
-
-
-## 💬 Let's Connect!
-
-<div align="center">
-
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourusername)
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/yourserver)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourusername)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://yourwebsite.com)
-
-</div>
-
-## 🎵 Vibing To
-
-<div align="center">
-  
-[![Spotify](https://novatorem-yourusername.vercel.app/api/spotify)](https://open.spotify.com/user/lucapascu)
-
-</div>
-
----
-
-<div align="center">
-  
-  ### 💭 Random Dev Quote
-  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-  
-  ### 🐍 Contribution Graph
-  ![Snake animation](https://github.com/1nj3c4/1nj3c4/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-
-<div align="center">
-  
-  **✨ Thanks for stopping by! ✨**
-  
-  ![Made with Love](https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge)
-  
-</div>
